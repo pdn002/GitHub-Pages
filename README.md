@@ -1,1 +1,1 @@
-c++ is very cool
+c++ is cool
