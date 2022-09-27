@@ -9,5 +9,5 @@
 > Python <br>
 ### Favorite Function
 ```
-print()
+print(
 ```
